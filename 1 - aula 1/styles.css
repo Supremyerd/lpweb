@@ -1,0 +1,44 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+/* body::after {
+    background-color: red;
+    width: 100%;
+    height: 100%;
+    
+} */
+
+body {
+    background-color: rgb(49, 1, 67);
+    color: green;
+}
+
+
+img {
+    width: 90px;
+    height: 60px;
+}
+
+a {
+    text-decoration: none;
+    color: green;
+}
+/* 
+nav {
+    
+} */
+
+nav ul {
+    display: flex;
+    justify-content: space-between;
+}
+
+#blue {
+    color: green;
+}
+
+.red {
+    color: green;
+}
